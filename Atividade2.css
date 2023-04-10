@@ -1,0 +1,29 @@
+.par1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+    font-style: normal;
+    font-weight: 800;
+   
+}
+.par2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.par3{
+    font-family:monospace;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 500;
+       
+    }
+.par4{
+    font-family:fantasy;
+    font-size: x-small;
+    font-style: normal;
+    font-weight: 400;
+    }
+
+       

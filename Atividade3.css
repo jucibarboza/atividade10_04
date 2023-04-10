@@ -1,0 +1,97 @@
+
+#background-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("receitas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    opacity: 0.7;
+    z-index: -1; 
+  }
+
+  ul{
+    list-style-position: inside;
+  }
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+   }
+
+   .título {
+    margin-top: 50px;
+    background-color: #cae2f5;
+    padding: 5px;
+    border-radius: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    opacity: 1;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+  
+.ingredientes {
+    margin-top: 50px;
+    background-color: #cae2f5;
+    padding: 5px;
+    border-radius: 15px;
+    margin-left: 40%;
+    margin-right: 40%;
+    opacity: 1;
+    font-size: 20px;
+    line-height: 1.4;
+    text-align: center;
+ 
+}
+    
+
+
+.intgredientes_riscado {
+    text-decoration: line-through;
+  }
+    
+
+.modo_fazer{
+    margin-top: 30px;
+    background-color: #cae2f5;
+    padding: 5px;
+    border-radius: 15px;
+    margin-left: 30%;
+    margin-right: 30%;
+    opacity: 1;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.tempo{
+    margin-top: 30px;
+    font-style: italic;
+    background-color: #cae2f5;
+    padding: 5px;
+    border-radius: 15px;
+    margin-left:40%;
+    margin-right: 40%;
+    opacity: 1;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.obrigatorio{
+    color:green
+
+}
+
+.agosto{
+    color:blue
+
+}
